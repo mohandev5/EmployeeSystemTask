@@ -1,0 +1,10 @@
+com/task/employeeSystem/entity/LoginDetails.class
+com/task/employeeSystem/repo/LoginRepo.class
+com/task/employeeSystem/repo/EmployeeRepo.class
+com/task/employeeSystem/controller/LoginDetailsController.class
+com/task/employeeSystem/EmployeeSystemApplication.class
+com/task/employeeSystem/security/Security.class
+com/task/employeeSystem/service/EmployeeService.class
+com/task/employeeSystem/controller/EmployeeController.class
+com/task/employeeSystem/service/LoginDetailsService.class
+com/task/employeeSystem/entity/Employee.class
